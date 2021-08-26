@@ -19,7 +19,7 @@ public class Listdemo {
         Collections.sort(r1);
         System.out.println(r1);
         System.out.println(r1.size());
-        System.out.println(r1.get(2));
+        System.out.println(r1.get(1));
 
     }
 }
